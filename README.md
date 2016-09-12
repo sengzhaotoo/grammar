@@ -18,7 +18,7 @@ any compilers, it uses lexical and syntax analysis to analyze the character and 
 Tree (AST) and eventually with semantics analysis, a target code/language is generated. 
 
 A breakdown of the procress can be seen below: 
-![alt-text](http://github.com/sengzhaotoo/grammar/screenshot/img.png)
+![Source Code to Target Code](https://github.com/sengzhaotoo/grammar/blob/master/screenshot/img.png?raw=true)
 
 ***Brrrr...*** Back to this machine problem.
 
